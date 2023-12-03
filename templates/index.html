@@ -1,0 +1,23 @@
+<!-- templates/index.html -->
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>ML Model Prediction</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='styles.css') }}">
+</head>
+<body>
+    <div class="content">
+        <h1>ML Model Prediction</h1>
+            <h1>Enter Values for Prediction</h1>
+            <form action="/predict" method="post">
+                {% for feature in selected_features %}
+                    <label for="{{ feature }}">{{ feature }}:</label>
+                    <input type="text" name="{{ feature }}" required><br>
+                {% endfor %}
+                <input type="submit" value="Predict">
+            </form>
+</body>
+</html>
