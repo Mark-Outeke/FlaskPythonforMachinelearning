@@ -1,0 +1,44 @@
+<!-- templates/result.html -->
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>ML Model Prediction Result</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='styles.css') }}">
+    <script src="https://cdn.plot.ly/plotly-latest.min.js"></script>
+</head>
+<body>
+    <h1>ML Model Prediction Result</h1>
+    <p>Predicted Class: {{ predicted_class }}</p>
+
+    <h1>ML Model Prediction Result</h1>
+    <p>Predicted Class: {{ predicted_class }}</p>
+
+    <!-- Include the accuracy chart -->
+    <div id="accuracy_chart" class="chart-container"></div>
+
+    <!-- Include confusion matrices -->
+    <div id="confusion_matrix_lr" class="chart-container">
+        <img src="{{ url_for('static', filename='confusion_matrix_lr.png') }}" alt="Confusion Matrix - LR">
+    </div>
+    <div id="confusion_matrix_svm" class="chart-container">
+        <img src="{{ url_for('static', filename='confusion_matrix_svm.png') }}" alt="Confusion Matrix - SVM">
+    </div>
+    <div id="confusion_matrix_ann" class="chart-container">
+        <img src="{{ url_for('static', filename='confusion_matrix_ann.png') }}" alt="Confusion Matrix - ANN">
+    </div>
+    <div id="confusion_matrix_ensemble" class="chart-container">
+        <img src="{{ url_for('static', filename='confusion_matrix_ensemble.png') }}" alt="Confusion Matrix - Ensemble">
+    </div>
+
+    <!-- Script to load Plotly charts -->
+    <script>
+        // Load the accuracy chart
+        Plotly.d3.csv('accuracy_chart.html', function (err, data) {
+            Plotly.newPlot('accuracy_chart', data);
+        });
+    </script>
+</body>
+</html>
