@@ -1,0 +1,55 @@
+dataElement,id,valueType,,
+DSBS-01 : Disease Classification (Baseline),Aw9p1CCIkqL,TEXT,keep,has options
+DSBS-02 : Type of patient,hDaev1EuehO,TEXT,keep,has options
+DSBS-08 : Started on 1st Line Treatment,CxdzmL6vtnx,TEXT,99% yes,has options
+DSBS-09 :  DS-TB regimen ,axDtvPeYL2Y,TEXT,99% 4rh,has options
+DSBS-11 : Diagnosed With DR TB,f0S6DIqAOE5,TEXT,keep,has options
+DSBS-12 : Started on DRTB treatment,eP1Yyb3h0ST,TEXT,keep,has options
+DSBS-14 : Date started on DR-TB treatment,EpvHxcDmxyT,DATE,keep,
+DSBS-15 : Started on DRTB treatment DRTB No,SRT2JzW4OFx,TEXT,keep,hasn’t 
+DSBS-16 : HIV status (Baseline),dtRfCJvzZRF,TEXT,keep,has options
+DSBS-17 : ART Status,b801bG8cIxt,TEXT,keep,has options
+DSBS-18 : ART No,sQ4Z6lEiiq6,TEXT,random,hasn’t
+DSBS-19 : CPT/Dapson (Baseline),pg6UUMn87eM,TEXT,,has options
+DSBS-20 : HIV status Date,Bivxg5n4goz,DATE,random before,
+DSBS-21 : ART Status Date,QcjaZKRl9D4,DATE,same above,
+DSBS-22 : CPT/Dapson Initiation Date,FtWNuQmVu7j,DATE,,
+DSBS-23 : Risk Group Health Care Worker,ig3ZDT8Mgus,TRUE_ONLY,keep,
+DSBS-24 : Risk Group TB Contact,t6qq4TXSE7n,TRUE_ONLY,keep,
+DSBS-25 : Risk Group Prisoner,WqWIsCuYw14,TRUE_ONLY,keep,
+DSBS-29 : Risk Group Diabetic,BQ2qwbH5WXi,TRUE_ONLY,keep,
+DSBS-31 : Risk Group Smoker,HHf4Vff0Xrx,TRUE_ONLY,keep,
+DSBS-34 : Microscopy Results (Baseline),x7uZB9y0Qey,TEXT,keep,has options
+DSBS-35 : NAAT Results (Baseline),pD0tc8UxyGg,TEXT,keep,has options
+DSBS-36 : TB LAM Results (Baseline),e0mTEFrXZDh,TEXT,keep,has options
+DSBS-37 : Results X-ray(Baseline),LRzaAyb2vGk,TEXT,keep,has options
+DSBS-39 : Microscopy Test Date,WoPIO7Jd8EL,DATE,keep,
+DSBS-40 : NAAT Test date (Baseline),JCdqUjZZuvx,DATE,keep,
+DSBS-41 : TB LAM Test date (Baseline),aOHalAjOIrJ,DATE,keep,
+DSBS-42 : Test date X-ray,YSjR80QKKXo,DATE,keep,
+DSBS-44 : Microscopy Lab No ,z2NcMr02XJs,TEXT,keep,hasn’t 
+DSBS-45 : NAAT Lab No,CF6JasgPZtt,TEXT,keep,hasn’t 
+DSBS-46 : TB Lab No (Baseline),WWREUMZUm7z,TEXT,keep,hasn’t
+DSBS-47 : Lab No X-ray,wD7EhGND4tu,TEXT,keep,hasn’t
+DSBS-49 : Diabetes Status 2024,FZMwpP1ncnZ,TEXT,random,has options
+DSBS-50 : 1st Line treatment start date,THirpMvAHgw,DATE,only if new patient,
+DSBS-51 : Extra Pulmonary TB Site,IGv6SjkM162,TEXT,keep, has options
+DSBS-52: Risk Group Uniformed/Armed Personnel,K1JiyL94mCT,TRUE_ONLY,keep,
+DSBS-53: Date diagnosed with DRTB,j9lDBfNNXlz,DATE,if diagnosed before,
+DSBS-54 Describe Lesions,jNdLczMvDPT,TEXT,keep,has options
+DSBS-55 : Severity,UGznqHuXC8A,TEXT,keep,has options
+DSBS-56 : CD4,Dq2CKpBrLem,NUMBER,keep,
+DSBS-57 : Viral Load,Rj4uJOP4t96,NUMBER,keep,
+DSBS-58 : ART Regimen,pYsPUUxPn3v,TEXT,keep,has options
+DSBS-59 : Slum Dweller,EeE2uJluiAY,TRUE_ONLY,keep,
+DSBS-60 : Under nourished,U0s0Hul9lmX,TRUE_ONLY,keep,
+DSBS-61 : Alcohol and drug abuse,YhHeRvXzmXJ,TRUE_ONLY,keep,
+DSTX-41 : Weight (kg) (TB Baseline Vitals),dfNv7RZKIml,NUMBER,keep,
+DSTX-42 : Height (cm) (TB Baseline Vitals),XwVhny4B7EV,NUMBER,keep,
+DSTX-43 : BMI (TB Baseline Vitals),DDzcOBJwRnC,NUMBER,keep,
+DSTX-44 : MUAC (TB Baseline Vitals),XHkluF3EAg0,TEXT,keep,hasn’t 
+DSTX-45 : HB (TB Baseline Vitals),uIlwmJ26a6N,TEXT,keep,hasn’t 
+DSTX-46 : BP (TB Baseline Vitals),R0uqGCHWq4M,NUMBER,keep,
+DSTX-47 : FBS (TB Baseline Vitals),OjPmMe220KO,TEXT,keep,hasn’t
+DSTX-48 : RBS (TB Baseline Vitals),CXUI1Yrr9gd,TEXT,keep,hasn’t 
+DSTX-49 : Temperature (TB Baseline Vitals),CpNmdkKzz8O,NUMBER,keep,
