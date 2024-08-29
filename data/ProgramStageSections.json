@@ -1,0 +1,336 @@
+{
+  "programStageSections": [
+    {
+      "displayName": "Administration of drugs",
+      "id": "iHFfBNOIKIg"
+    },
+    {
+      "displayName": "Admission",
+      "id": "xfO0PDgtqoj"
+    },
+    {
+      "displayName": "Adverse Event",
+      "id": "mAcWb2CBLqx"
+    },
+    {
+      "displayName": "Adverse Events",
+      "id": "O1WwFSx2qaJ"
+    },
+    {
+      "displayName": "Adverse Events following Treatment",
+      "id": "NmWNlX6XUZJ"
+    },
+    {
+      "displayName": "Adverse Events following Treatment",
+      "id": "bLEf7aWI0Mm"
+    },
+    {
+      "displayName": "Baseline Vitals",
+      "id": "bo70JFlQJkG"
+    },
+    {
+      "displayName": "Clinical Attendance",
+      "id": "j18wd1NjpwB"
+    },
+    {
+      "displayName": "Clinical Attendance",
+      "id": "neTlNs6fspb"
+    },
+    {
+      "displayName": "Comments",
+      "id": "xqHRA2L33uR"
+    },
+    {
+      "displayName": "Confirmatory Tests",
+      "id": "DzNlB1ZyHA6"
+    },
+    {
+      "displayName": "Contact Screening",
+      "id": "F7Dul7mn6n2"
+    },
+    {
+      "displayName": "Contact Tracing",
+      "id": "oyV5NSH8jmQ"
+    },
+    {
+      "displayName": "DOT",
+      "id": "HlPdWtqZgIo"
+    },
+    {
+      "displayName": "Decision",
+      "id": "PkmheHp7mrc"
+    },
+    {
+      "displayName": "Diabetes Monitoring",
+      "id": "BHyqQj2VMzl"
+    },
+    {
+      "displayName": "Disability Grading DuringTreatment",
+      "id": "utlp0i8fCgs"
+    },
+    {
+      "displayName": "Disability Grading at Start of Treatment",
+      "id": "PXCG2hW10jK"
+    },
+    {
+      "displayName": "Drug dispensed",
+      "id": "zzmAz9D6Wea"
+    },
+    {
+      "displayName": "Eye Examinations",
+      "id": "fa35dsJE2hU"
+    },
+    {
+      "displayName": "Eye Examinations",
+      "id": "n4iW8JqQmXH"
+    },
+    {
+      "displayName": "Final Treatment Outcome",
+      "id": "jgiXjKkN5C4"
+    },
+    {
+      "displayName": "Followup for Outcome",
+      "id": "dccrS50uass"
+    },
+    {
+      "displayName": "General Examination",
+      "id": "fuKei5L0GJf"
+    },
+    {
+      "displayName": "General Examinations",
+      "id": "lsN9OwCOJFx"
+    },
+    {
+      "displayName": "HIV",
+      "id": "nokTom8Kuae"
+    },
+    {
+      "displayName": "HIV Status",
+      "id": "rh65WLBEsoN"
+    },
+    {
+      "displayName": "HIV Status",
+      "id": "zXwC9QX5SHL"
+    },
+    {
+      "displayName": "HIV/ART information",
+      "id": "LDirisPaKXb"
+    },
+    {
+      "displayName": "History",
+      "id": "Pbo9TWvSSLu"
+    },
+    {
+      "displayName": "Investigations Done",
+      "id": "oSTBlQK3bhV"
+    },
+    {
+      "displayName": "Lab",
+      "id": "YRZf8FVxsaY"
+    },
+    {
+      "displayName": "Lab Results",
+      "id": "Ia5OOaoJyLw"
+    },
+    {
+      "displayName": "Lab Tests",
+      "id": "iSUKVt8jCu0"
+    },
+    {
+      "displayName": "Laboratory",
+      "id": "O6tjl2HWP2J"
+    },
+    {
+      "displayName": "Laboratory Investigations",
+      "id": "rmGRcwtiJ9C"
+    },
+    {
+      "displayName": "Laboratory Monitoring",
+      "id": "Jh3P10jcItb"
+    },
+    {
+      "displayName": "Laboratory investigations",
+      "id": "lZW1MVcZwQ4"
+    },
+    {
+      "displayName": "Leprosy Examination",
+      "id": "rwSZrUXpkI6"
+    },
+    {
+      "displayName": "Linked to care",
+      "id": "umnPljYOBHK"
+    },
+    {
+      "displayName": "MTB XDR Assay",
+      "id": "AgDRtMnVEyn"
+    },
+    {
+      "displayName": "Mental Health",
+      "id": "jR43G6E6M2s"
+    },
+    {
+      "displayName": "Misclassification",
+      "id": "Z1mV7qfEIpO"
+    },
+    {
+      "displayName": "Mode of follow up",
+      "id": "IYR3SC0JbY3"
+    },
+    {
+      "displayName": "Mode of follow up",
+      "id": "io7KAWN23fV"
+    },
+    {
+      "displayName": "Muscle Strength Assessment",
+      "id": "Y1kDSU7DPce"
+    },
+    {
+      "displayName": "Muscle Strength Assessment",
+      "id": "jVprlLGFngX"
+    },
+    {
+      "displayName": "Nerve Examinations",
+      "id": "Kzgz7DlDkTt"
+    },
+    {
+      "displayName": "Nerve Examinations",
+      "id": "Wi1rgrkDpVY"
+    },
+    {
+      "displayName": "Nutrition Assessment",
+      "id": "UkoAtv4q3LW"
+    },
+    {
+      "displayName": "Other Medical Diagnoses",
+      "id": "nBy65gFmnbW"
+    },
+    {
+      "displayName": "Outcome",
+      "id": "nJHz4RTs5aX"
+    },
+    {
+      "displayName": "Panelists",
+      "id": "EBHfqThowHT"
+    },
+    {
+      "displayName": "Post Treatment Sputum Monitoring",
+      "id": "GZRt1OndwtE"
+    },
+    {
+      "displayName": "Previous TB Treatment ",
+      "id": "I38uXC2arEf"
+    },
+    {
+      "displayName": "Reasons for follow up",
+      "id": "OlgTcHYbPvU"
+    },
+    {
+      "displayName": "Reasons for follow up",
+      "id": "azoeCgApTuF"
+    },
+    {
+      "displayName": "Referral",
+      "id": "tFUVtIb2Xjt"
+    },
+    {
+      "displayName": "Review Period",
+      "id": "shYTNX02Pn5"
+    },
+    {
+      "displayName": "Risk Group",
+      "id": "PnwFSeZV42H"
+    },
+    {
+      "displayName": "Screening",
+      "id": "xLV6yNt6k6d"
+    },
+    {
+      "displayName": "Screening Tests",
+      "id": "XPxiZHkC18t"
+    },
+    {
+      "displayName": "Second Line Drug Susceptibility Testing (SL DST)",
+      "id": "a4RSq5oXwUN"
+    },
+    {
+      "displayName": "Second Line Line Probe Assay (SL LPA)",
+      "id": "xHGoTqGFlrJ"
+    },
+    {
+      "displayName": "Second-line Treatment Regimen",
+      "id": "toaA8jr8hqt"
+    },
+    {
+      "displayName": "Skin Lesions Examinations",
+      "id": "PlTXWi2R53D"
+    },
+    {
+      "displayName": "Skin Lesions Examinations",
+      "id": "WTSngZn6Yuy"
+    },
+    {
+      "displayName": "Smear Microscopy and Culture",
+      "id": "Ty6BY0hF8iz"
+    },
+    {
+      "displayName": "Support provided",
+      "id": "HXFdk5Cu3c1"
+    },
+    {
+      "displayName": "Support provided",
+      "id": "hVEYwmspj3W"
+    },
+    {
+      "displayName": "TB Evaluation",
+      "id": "ovAAnkaXY0Z"
+    },
+    {
+      "displayName": "TB Status",
+      "id": "emwN8h1q9qF"
+    },
+    {
+      "displayName": "TPT",
+      "id": "LYiUDVW7x2U"
+    },
+    {
+      "displayName": "Transfer",
+      "id": "IrKY9rRYVfT"
+    },
+    {
+      "displayName": "Treatment Monitoring",
+      "id": "cR5ud04S55O"
+    },
+    {
+      "displayName": "Treatment Outcome",
+      "id": "JnEi7OMm39k"
+    },
+    {
+      "displayName": "Treatment Outcome",
+      "id": "fFFLbG2Qinc"
+    },
+    {
+      "displayName": "Treatment Start",
+      "id": "KqO5BAP52OS"
+    },
+    {
+      "displayName": "Type and Classification",
+      "id": "rtJWJXSG7dd"
+    },
+    {
+      "displayName": "Visit Information",
+      "id": "KMudfzSTgGt"
+    },
+    {
+      "displayName": "Vitals",
+      "id": "t6M5e3kgpE4"
+    },
+    {
+      "displayName": "Weight & Nutrition Monitoring",
+      "id": "EjdTUkwIe3D"
+    },
+    {
+      "displayName": "X-Ray and ECG",
+      "id": "NvoWEQO49BM"
+    }
+  ]
+}

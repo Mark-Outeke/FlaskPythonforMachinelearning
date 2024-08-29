@@ -1,0 +1,65 @@
+{
+  "trackedEntityInstances": [
+    {
+      "trackedEntityInstance": "TEI_ID",
+      "trackedEntityType": "TE_TYPE_ID",
+      "orgUnit": "ORG_UNIT_ID",
+      "attributes": [
+        {
+          "attribute": "ATTRIBUTE_ID_1",
+          "value": "value1"
+        },
+        {
+          "attribute": "ATTRIBUTE_ID_2",
+          "value": "value2"
+        }
+      ],
+      "enrollments": [
+        {
+          "enrollment": "ENROLLMENT_ID",
+          "program": "PROGRAM_ID",
+          "status": "ACTIVE",
+          "orgUnit": "ORG_UNIT_ID",
+          "incidentDate": "YYYY-MM-DD",
+          "enrollmentDate": "YYYY-MM-DD",
+          "events": [
+            {
+              "event": "EVENT_ID_1",
+              "programStage": "PROGRAM_STAGE_ID",
+              "orgUnit": "ORG_UNIT_ID",
+              "eventDate": "YYYY-MM-DD",
+              "status": "COMPLETED",
+              "dataValues": [
+                {
+                  "dataElement": "DATA_ELEMENT_ID_1",
+                  "value": "value1"
+                },
+                {
+                  "dataElement": "DATA_ELEMENT_ID_2",
+                  "value": "value2"
+                }
+              ]
+            },
+            {
+              "event": "EVENT_ID_2",
+              "programStage": "PROGRAM_STAGE_ID",
+              "orgUnit": "ORG_UNIT_ID",
+              "eventDate": "YYYY-MM-DD",
+              "status": "COMPLETED",
+              "dataValues": [
+                {
+                  "dataElement": "DATA_ELEMENT_ID_3",
+                  "value": "value3"
+                },
+                {
+                  "dataElement": "DATA_ELEMENT_ID_4",
+                  "value": "value4"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
